@@ -24,7 +24,7 @@ import time
 # print("Happy New Year!")
 
 # -1 will be a countdown
-# sleep - will count at every one second
+# sleep - will count for how many seconds are inside (1) - one sec
 
 # ---------------- EXAMPLE 1 ----------------
 
