@@ -34,6 +34,11 @@ student = ("Daniel", 25, "male")
 print(student.count("Daniel"))
 print(student.index("male"))
 
+# print(dir(student)) #return a list of attributes and methods of an set
+# print(help(student))
+# print(len(student))
+# print("pineapple" in student)
+
 for value in student:
   print(value)
 
