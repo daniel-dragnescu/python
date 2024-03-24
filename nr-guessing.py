@@ -3,7 +3,7 @@ high = 100
 options = ("Rock", "Paper", "Scissors")
 cards = ['2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A']
 
-# number = random.random()
+# number = random.random() between 0 and 1
 # number = random.randint(low, high)
 # choice = random.choice(options)
 # random.shuffle(cards)
